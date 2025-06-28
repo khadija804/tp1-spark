@@ -1,0 +1,4 @@
+01/01/2023 casablanca ProduitA 100
+01/03/2023 tanger ProduitB 200
+02/01/2023 casablanca ProduitC 150
+01/01/2022 agadir ProduitA 50
