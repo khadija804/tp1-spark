@@ -7,12 +7,19 @@ Exercice 1 :
    du fichier ventes.txt est de la forme suivante :
    date ville produit prix
 
-- Compte du nombre total de ventes
-![1](captures/totalVente.png)
+   - Compte du nombre total de ventes
+   ![1](captures/totalVente.png)
 
-- Calcul du total des ventes par ville
-![2](captures/totalVenteParVille.png)
+   - Calcul du total des ventes par ville
+   ![2](captures/totalVenteParVille.png)
 
-- Calcul du total des ventes par ville et année
-  ![2](captures/totalVenteParVilleEtAnnee.png)
+   - Calcul du total des ventes par ville et année
+   ![3](captures/totalVenteParVilleEtAnnee.png)
+
+Exécution sur un cluster Spark (via Docker)
+
+    - Lancer le cluster
+![4](captures/spark_up.png)
+   - Executer le script
+![4](captures/execute.png)
 
